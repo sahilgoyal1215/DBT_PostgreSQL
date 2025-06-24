@@ -1,0 +1,12 @@
+id,SalePersonFName,SalePersonLName,ProductName,ItemsSold,SoldPrice,Country,Region
+1,Aamir,Shahzad,TV,1,700,USA,North America
+2,M,Raza,Cell Phone,2,800,USA,North America
+3,Christy,Ladson,TV,3,1600,USA,North America
+4,John,Rivers,Laptop,5,2400,USA,North America
+5,Najaf,Ali,Computer,1,300,Pakistan,Asia
+6,Sukhjeet,Singh,TV,2,900,India,Asia
+7,Chirag,Patel,Cell Phone,5,1500,India,Asia
+8,Aleena,Aman,Laptop,2,800,Pakistan,Asia
+9,Petra,Henry,TV,10,5000,France,Europe
+10,Rita,Roger,Laptop,7,2100,France,Europe
+11,Tamara,Tony,Cell Phone,2,1200,Germany,Europe
